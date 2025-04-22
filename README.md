@@ -16,6 +16,10 @@ She would like to know the attrition rate (% of people who left the company).
 
 She would also know if factors like age, years at the company and income play a part in determining if people will leave or not.
 
+### 🌿 Data Sourcing
+
+The dataset used for this analysis was sourced from [Green Destination](https://github.com/mroyalreddy07/Green_Destination_Project/blob/main/Green%20destination.csv) and available dataset's here below.
+
 ### 🎯 Objective
 
 * Deliver actionable insights on employee attrition to the HR Director of Green Destinations, based on data provided by internal staff.
