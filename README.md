@@ -20,6 +20,15 @@ She would also know if factors like age, years at the company and income play a 
 
 The dataset used for this analysis was sourced from [Green Destination](https://github.com/mroyalreddy07/Green_Destination_Project/blob/main/Green%20destination.csv) and available dataset's here below.
 
+### Technology
+Business Intelligence
+
+### Domain 🛒
+Human Resources
+
+### Tools 🛠
+Microsoft Software Power BI
+
 ### 🎯 Objective
 
 * Deliver actionable insights on employee attrition to the HR Director of Green Destinations, based on data provided by internal staff.
@@ -31,12 +40,18 @@ The dataset used for this analysis was sourced from [Green Destination](https://
 ### 📊 Key Performance Indicators (KPIs)
 Based on the available data, KPIs may include:
 
-* Monthly Attrition Rate.
-* Voluntary vs Involuntary Attrition.
+* Average Age.
+* Average years @ company
 * Average Employee Tenure.
+* Total Employees.
 * Department-wise Attrition.
+
+* Monthly Attrition Rate.      
+* Voluntary vs Involuntary Attrition.
 * Exit Reason Categories.
-* New Hire vs Exit Ratio
+* New Hire vs Exit Ratio.
+* Attrition Count.
+* Attrition Rate %.
 * Employee Engagement Score (if available).
 
 ### 📈 Dashboard Design
