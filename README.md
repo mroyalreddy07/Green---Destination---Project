@@ -41,17 +41,21 @@ Microsoft Software Power BI
 Based on the available data, KPIs may include:
 
 * Average Age.
-* Average years @ company
+* Average years @ company.
 * Average Employee Tenure.
-* Total Employees.
+* Employees Count.
+* Attrition Count.
+
+  
 * Department-wise Attrition.
+
+
+* Attrition Rate %
 
 * Monthly Attrition Rate.      
 * Voluntary vs Involuntary Attrition.
 * Exit Reason Categories.
 * New Hire vs Exit Ratio.
-* Attrition Count.
-* Attrition Rate %.
 * Employee Engagement Score (if available).
 
 ### 📈 Dashboard Design
