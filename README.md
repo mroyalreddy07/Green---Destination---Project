@@ -46,18 +46,6 @@ Based on the available data, KPIs may include:
 * Employees Count.
 * Attrition Count.
 
-  
-* Department-wise Attrition.
-
-
-* Attrition Rate %
-
-* Monthly Attrition Rate.      
-* Voluntary vs Involuntary Attrition.
-* Exit Reason Categories.
-* New Hire vs Exit Ratio.
-* Employee Engagement Score (if available).
-
 ### 📈 Dashboard Design
 
 Develop a dynamic, interactive dashboard.
